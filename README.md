@@ -1,7 +1,7 @@
 ### vatsalroot.github.io
 
 - Simple and Static portfolio to introduce myself
-- Note : Please use Desktop version for better UI
+- Note : Please open in Desktop for better UI
 
 
 ```
